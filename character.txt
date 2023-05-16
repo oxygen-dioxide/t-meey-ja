@@ -1,0 +1,15 @@
+image=profil.bmp
+name=T-Meey_チョコレートクッキー
+author=Meey Project
+sample=sample.wav
+voice=Kranker Apfel
+web=https://soundcloud.com/meey-project
+version=1.0
+resampler=doppelter64 and EFB-GT
+
+==== TERM OF USE =====
+Please check https://github.com/KrankerApfel/T-Meey/blob/master/README.md
+
+==== OTHER INFO ====
+
+T-Meey is pronounced [ˈtiː] [ˈmiː] 【ティーミー】

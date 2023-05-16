@@ -1,0 +1,9 @@
+﻿name: T-Meey_AllChocolateCookie
+text_file_encoding: utf-8
+portrait: portrait.png
+portrait_opacity: 0.5
+version: 1.0 All Chocolate Cookie
+image: profil.bmp
+author: KrankerApfel
+web: https://soundcloud.com/meey-project/tracks
+default_phonemizer: OpenUtau.Plugin.Builtin.JapaneseCVVCPhonemizer
